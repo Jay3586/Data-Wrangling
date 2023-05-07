@@ -1,0 +1,62 @@
+                                                                                                                               OUTPUT
+
+this is my Flatfile containing.
+
+55-inch (139.7 cm)
+LED
+4K, 3840 x 2160 Pixels
+Black
+60 Hz
+
+
+
+This is my output 
+   
+The first customer filtered the 55-inch size television so the customer per their choice I have 3 55-Inch TVs Relme, Panasonic, TCL, and SONY, and then after the model works on clusters shows nearest to the 55-inch
+, LED, 4K 3840 * 2160 PIXELS, Black, 60 Hz. model set their rank by including all five things.
+
+
+File names in order of priority:
+1. REALME TV.txt
+2. PANASONIC TV.txt
+3. TCL TV.txt
+4. SONY TV.txt
+5. LG Tv.txt
+6. INTEX TV.txt
+7. SAMSUNG TV.txt
+8. ACER TV.txt
+9. ONIDA TV.txt
+10. XIAOMI TV.txt
+11. ONEPLUS TV.txt
+12. MICROMAX TV.txt
+13. HAIER TV.txt
+14. VIDEOCON TV.txt
+15. VU TV.txt
+
+Selected files and their justifications:
+
+Filename: REALME TV.txt
+Justification of Television Key spaces: My customer needs a 55-inch Size of tv, second one is LED, COLUR IN BLACK, and the Resolution should be 4K and 3840 x 2160 Pixels, Refresh Rate 60Hz
+- Contains '55-inch (139.7 cm)'
+- Contains 'LED'
+- Contains '4K, 3840 x 2160 Pixels'
+- Contains 'Black'
+- Contains '60 Hz'
+
+Filename: PANASONIC TV.txt
+Justification of Television Key spaces: My customer needs a 55-inch Size of tv, second one is LED, COLUR IN BLACK, and the Resolution should be 4K and 3840 x 2160 Pixels, Refresh Rate 60Hz
+- Contains '55-inch (139.7 cm)'
+- Contains 'LED'
+- Contains '4K, 3840 x 2160 Pixels'
+- Contains 'Black'
+- Contains '60 Hz'
+
+Filename: TCL TV.txt
+Justification of Television Key spaces: My customer needs a 55-inch Size of tv, second one is LED, COLUR IN BLACK, and the Resolution should be 4K and 3840 x 2160 Pixels, Refresh Rate 60Hz
+- Contains '55-inch (139.7 cm)'
+- Contains 'LED'
+- Contains '4K, 3840 x 2160 Pixels'
+- Contains 'Black'
+- Contains '60 Hz'
+
+
